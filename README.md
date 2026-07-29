@@ -2,20 +2,8 @@
 
 ## 👩‍💼 About Me
 
-I'm a Senior Project Manager with experience managing digital transformation and enterprise web projects.
+I'm a Senior Project Manager with 10+ years of experience delivering enterprise digital transformation projects. I specialize in Agile delivery, stakeholder management, release planning, Adobe Experience Manager (AEM), and cross-functional team collaboration.
 
-I specialize in:
-
-- Agile Project Management
-- Stakeholder Management
-- Sprint Planning
-- Release Management
-- Risk & Issue Management
-- Adobe Experience Manager (AEM)
-- Client Communication
-- Cross-functional Team Leadership
-
----
 
 ## 🛠 Skills
 
