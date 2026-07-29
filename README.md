@@ -55,7 +55,7 @@ I'm building a collection of practical Project Management resources including:
 
 ## 📫 Connect with Me
 
-- LinkedIn: *(Add your LinkedIn profile here later)*
+- LinkedIn: https://www.linkedin.com/in/priyanka-sharma-390950415/
 - Location: Jaipur, Rajasthan, India
 
 ---
